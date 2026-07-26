@@ -2,7 +2,7 @@
 
 ## 安装
 
-1. 点击右侧的 Releases 下载。
+1. 点击右侧的 Releases 下载压缩包并解压。
 2. 打开 Chrome 或 Edge 的 `chrome://extensions` 或 `edge://extensions`。
 3. 打开右上角的“开发者模式”。
 4. 点击“加载已解压的扩展程序”。
